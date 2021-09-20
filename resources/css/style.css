@@ -20,7 +20,7 @@ h2{
     font-weight: 300;
 }
 
-p{
+.description{
     color: gray;
     font-size: 21px;
 }
@@ -33,4 +33,11 @@ a{
 
 video{
     text-align: center;
+}
+
+.copyright{
+   display: block;
+   text-align: right;
+   color: gray;
+   font-size: 21px;
 }

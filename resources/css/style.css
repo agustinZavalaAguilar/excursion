@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    text-align: center;
 }
 
 h1,h2,a {
@@ -20,3 +21,6 @@ a{
     color: aquamarine;
 }
 
+video{
+    text-align: center;
+}
